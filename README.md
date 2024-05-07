@@ -14,7 +14,7 @@
 ## Education:
 ### Post-Diploma Certificate in Data Management & Analytics
 ### BSc and MSc in Applied Chemistry and Chemical Engineering
-#### I'm always eager to collaborate on exciting projects and explore new opportunities in the field of data analytics. Let's connect and make data-driven decisions together! 🚀
+### I'm always eager to collaborate on exciting projects and explore new opportunities in the field of data analytics. Let's connect and make data-driven decisions together! 🚀
 
 ### Connect with me on LinkedIn
 
