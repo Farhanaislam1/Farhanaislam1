@@ -1,0 +1,24 @@
+# Hi there! 👋 I'm Farhana Islam
+## Passionate and detail-oriented data analyst with a knack for transforming complex data into actionable insights. I specialize in employing advanced statistical techniques and leveraging database tools like SQL and Python to drive strategic decision-making. My journey into the world of data began during my studies in Chemical Engineering at the University of Toronto, where I discovered my passion for uncovering meaningful patterns within data.
+
+## Skills & Expertise:
+### Data Analysis: Extensive experience in utilizing SQL and Python for data manipulation and analysis.
+### Statistical Techniques: Proficient in employing advanced statistical techniques to extract valuable insights from data.
+### Data Visualization: Skilled in creating interactive visualizations and reports using tools like Tableau and Power BI.
+### Communication: Experienced in collaborating with diverse stakeholders, from non-technical personnel to subject matter experts, using effective communication skills to drive successful project outcomes.
+## Projects:
+### Emergency Department Project: A Python project focusing on analyzing data from emergency departments to optimize resource allocation and improve patient outcomes.
+### Capstone Project: Python code for my Capstone Project, demonstrating my skills in data analysis and visualization.
+### US Healthcare Dashboard: A dashboard created using Tableau to visualize key metrics and trends in the US healthcare system.
+### Biases in GDP & Child Mortality Rate Dashboard: A dashboard showcasing insights into biases in GDP and child mortality rate data, developed using Tableau.
+## Education:
+### Post-Diploma Certificate in Data Management & Analytics
+### BSc and MSc in Applied Chemistry and Chemical Engineering
+#### I'm always eager to collaborate on exciting projects and explore new opportunities in the field of data analytics. Let's connect and make data-driven decisions together! 🚀
+
+### Connect with me on LinkedIn
+
+<!---
+Farhanaislam1/Farhanaislam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
