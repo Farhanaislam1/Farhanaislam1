@@ -8,7 +8,7 @@
 ### Communication: Experienced in collaborating with diverse stakeholders, from non-technical personnel to subject matter experts, using effective communication skills to drive successful project outcomes.
 ## Projects:
 ### Emergency Department Project: A Python project focusing on analyzing data from emergency departments to optimize resource allocation and improve patient outcomes.
-### Capstone Project: Python code for my Capstone Project, demonstrating my skills in data analysis and visualization.
+### HR data Analysis: Charts and visualization created in Tableau, demonstrating my skills in data analysis and visualization.
 ### US Healthcare Dashboard: A dashboard created using Tableau to visualize key metrics and trends in the US healthcare system.
 ### Biases in GDP & Child Mortality Rate Dashboard: A dashboard showcasing insights into biases in GDP and child mortality rate data, developed using Tableau.
 ## Education:
