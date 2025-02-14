@@ -1,5 +1,10 @@
 # Hi there! 👋 I'm Farhana Islam
-## Passionate and detail-oriented data analyst with a knack for transforming complex data into actionable insights. I specialize in employing advanced statistical techniques and leveraging database tools like SQL and Python to drive strategic decision-making. My journey into the world of data began during my studies in Chemical Engineering at the University of Toronto, where I discovered my passion for uncovering meaningful patterns within data.
+## As an Emerging Data Analyst, I have recently completed a Post-Diploma in Data Management & Analytics in addition to a Master of Science in Chemical Engineering and Applied Chemistry. 
+
+Throughout my career, I have developed a clear reputation as a results-oriented professional dedicated to developing predictive models, optimizing business performance, and enhancing data visualization for stakeholder engagement. 
+
+I have built a proven record of transforming large datasets into actionable insights that drive strategic decision-making.
+
 
 ## Skills & Expertise:
 ### Data Analysis: Extensive experience in utilizing SQL and Python for data manipulation and analysis.
