@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Farhana Islam
-## As an Emerging Data Analyst, I have recently completed a Post-Diploma in Data Management & Analytics in addition to a Master of Science in Chemical Engineering and Applied Chemistry. 
+## As a Data Analyst, I have recently completed a Post-Diploma in Data Management & Analytics in addition to a Master of Science in Chemical Engineering and Applied Chemistry. 
 
 Throughout my career, I have developed a clear reputation as a results-oriented professional dedicated to developing predictive models, optimizing business performance, and enhancing data visualization for stakeholder engagement. 
 
