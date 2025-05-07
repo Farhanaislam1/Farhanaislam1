@@ -1,3 +1,5 @@
+# 📊 Farhana Islam – Data Analyst Portfolio
+
 Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights and solving real-world problems using data. With experience across government research, startups, and education, I turn complex datasets into strategic actions using Python, SQL, Tableau, and machine learning.
 
 ---
@@ -10,6 +12,57 @@ Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights a
 **Project Management:** Agile, Scrum, Trello, Kanban
 
 ---
+
+## 📁 Featured Projects
+
+### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/yourusername/mental-health-in-tech)
+📅 *Jan 2025 – Apr 2025*  
+- Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
+- Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
+
+### 🔹 [Electric Vehicle Population in the USA](https://github.com/yourusername/ev-data-analysis)
+📅 *Feb 2025 – Apr 2025*  
+- Analyzed 220K+ records on BEVs and PHEVs from Washington State.  
+- Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
+- Built clean visualizations with Seaborn and Matplotlib.
+
+### 🔹 [Fish Image Regression & Classification (M2M Tech Internship)](https://github.com/yourusername/fish-weight-estimation)
+📅 *Jan 2025 – Present*  
+- Developed deep learning models to predict fish weight and detect defects using TensorFlow, OpenCV, and Scikit-learn.  
+- Achieved R² = 0.95 for regression and 82% accuracy in classification.  
+- Automated preprocessing workflows to save 25% of manual labor.
+
+### 🔹 [House & Car Price Prediction (Capstone Project)](https://github.com/yourusername/price-prediction-project)
+📅 *Sep 2023 – Apr 2024*  
+- Built regression models to predict prices with 90–99% accuracy.  
+- Enhanced data quality through extensive cleaning in SQL and Python.  
+- Delivered insights via Tableau dashboards and Excel models.
+
+---
+
+## 📜 Certifications
+- 🎓 **IBM Data Analyst Professional Certificate** *(Expected Jun 2025)*  
+- ☁️ **Microsoft Azure AI Fundamentals (AI-900)**  
+- 📈 **Post-Diploma Certificate in Data Management & Analytics – Bow Valley College**
+
+---
+
+## 📫 Let's Connect
+📧 farhana.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🐱 [GitHub](https://github.com/yourusername)
+
+---
+
+## 📌 How to Use This Portfolio
+Explore individual project folders for Jupyter notebooks, visualizations, and README files with problem statements, methods, and results.
+
+---
+
+## 🔄 Future Plans
+- NLP projects analyzing social media or customer feedback  
+- Power BI dashboards for business KPIs  
+- Deploying ML models with Streamlit or Flask
 
 ## Skills & Expertise:
 ### Data Analysis: Extensive experience in utilizing SQL and Python for data manipulation and analysis.
