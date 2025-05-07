@@ -1,4 +1,15 @@
+Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights and solving real-world problems using data. With experience across government research, startups, and education, I turn complex datasets into strategic actions using Python, SQL, Tableau, and machine learning.
 
+---
+
+## 🔧 Tech Stack
+**Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow), SQL  
+**Tools:** Tableau, Excel, IBM Watson Studio, Jupyter Notebook, Visual Studio Code, GitHub  
+**Cloud Platforms:** Microsoft Azure (AI-900 Certified), IBM Cloud  
+**Databases:** MySQL, SQLite  
+**Project Management:** Agile, Scrum, Trello, Kanban
+
+---
 
 ## Skills & Expertise:
 ### Data Analysis: Extensive experience in utilizing SQL and Python for data manipulation and analysis.
