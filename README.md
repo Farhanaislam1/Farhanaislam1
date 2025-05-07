@@ -26,13 +26,13 @@ Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights a
 - Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
 - Built clean visualizations with Seaborn and Matplotlib.
 
-### 🔹 [Fish Image Regression & Classification (M2M Tech Internship)](https://github.com/yourusername/fish-weight-estimation)
+### 🔹 [Fish Image Regression & Classification (M2M Tech)](https://github.com/yourusername/fish-weight-estimation)
 📅 *Jan 2025 – Present*  
 - Developed deep learning models to predict fish weight and detect defects using TensorFlow, OpenCV, and Scikit-learn.  
 - Achieved R² = 0.95 for regression and 82% accuracy in classification.  
 - Automated preprocessing workflows to save 25% of manual labor.
 
-### 🔹 [House & Car Price Prediction (Capstone Project)](https://github.com/yourusername/price-prediction-project)
+### 🔹 [House & Car Price Prediction](https://github.com/yourusername/price-prediction-project)
 📅 *Sep 2023 – Apr 2024*  
 - Built regression models to predict prices with 90–99% accuracy.  
 - Enhanced data quality through extensive cleaning in SQL and Python.  
@@ -48,9 +48,9 @@ Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights a
 ---
 
 ## 📫 Let's Connect
-📧 farhana.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐱 [GitHub](https://github.com/yourusername)
+📧 farhana.03@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/farhana-islam-261938262/) 
+🐱 [GitHub](https://github.com/Farhanaislam1)
 
 ---
 
@@ -64,22 +64,6 @@ Explore individual project folders for Jupyter notebooks, visualizations, and RE
 - Power BI dashboards for business KPIs  
 - Deploying ML models with Streamlit or Flask
 
-## Skills & Expertise:
-### Data Analysis: Extensive experience in utilizing SQL and Python for data manipulation and analysis.
-### Statistical Techniques: Proficient in employing advanced statistical techniques to extract valuable insights from data.
-### Data Visualization: Skilled in creating interactive visualizations and reports using tools like Tableau and Power BI.
-### Communication: Experienced in collaborating with diverse stakeholders, from non-technical personnel to subject matter experts, using effective communication skills to drive successful project outcomes.
-## Projects:
-### Emergency Department Project: A Python project focusing on analyzing data from emergency departments to optimize resource allocation and improve patient outcomes.
-### HR data Analysis: Charts and visualization created in Tableau, demonstrating my skills in data analysis and visualization.
-### US Healthcare Dashboard: A dashboard created using Tableau to visualize key metrics and trends in the US healthcare system.
-### Biases in GDP & Child Mortality Rate Dashboard: A dashboard showcasing insights into biases in GDP and child mortality rate data, developed using Tableau.
-## Education:
-### Post-Diploma Certificate in Data Management & Analytics
-### BSc and MSc in Applied Chemistry and Chemical Engineering
-### I'm always eager to collaborate on exciting projects and explore new opportunities in the field of data analytics. Let's connect and make data-driven decisions together! 🚀
-
-### Connect with me on LinkedIn
 
 <!---
 Farhanaislam1/Farhanaislam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
