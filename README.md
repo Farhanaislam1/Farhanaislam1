@@ -1,4 +1,4 @@
-# 📊 Farhana Islam – Data Analyst Portfolio
+# 📊 Farhana Islam – Data Analyst 
 
 Hi there 👋 I'm Farhana, a data analyst passionate about uncovering insights and solving real-world problems using data. With experience across government research, startups, and education, I turn complex datasets into strategic actions using Python, SQL, Tableau, and machine learning.
 
