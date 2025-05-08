@@ -1,7 +1,9 @@
-# 📊 Farhana Islam – Data Analyst 
+# 📊 Farhana Islam – Data Analyst Portfolio
 
 Hi there 👋 I am Farhana, I am highly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, statistical modeling, and machine learning.  With hands-on experience in SQL, Python, Tableau, and machine learning, I specialize in uncovering trends, automating workflows, and delivering clear, data-backed stories that resonate across technical and non-technical teams.
+
 At M2M Tech, I led the development of image-based regression models for fish weight prediction using deep learning libraries-boosting model accuracy and improving data delivery timelines. During my time at Bow Valley College, I built robust regression models to predict house and car prices, refined data pipelines, and visualized insights that influenced key academic and administrative decisions.
+
 My journey began in chemical engineering, where I developed a strong foundation in scientific analysis and statistical rigor. Now, I am expanding my toolkit with AI/ML and cloud platforms like Microsoft Azure to stay ahead in the evolving data landscape. I bring curiosity, critical thinking, and a collaborative mindset to every challenge-whether it is optimizing dashboards, modeling real-world scenarios, or improving data reliability.
 
 
