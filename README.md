@@ -25,7 +25,7 @@ My journey began in chemical engineering, where I developed a strong foundation 
 - Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
 - Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
 
-### 🔹 [(https://github.com/Farhanaislam1/Electric-Vehicle-Population-in-USA))
+### 🔹 [Electric Vahicle Population data – EDA & Visualization](https://github.com/Farhanaislam1/Electric-Vehicle-Population-in-USA))
 📅 *Feb 2025 – Apr 2025*  
 - Analyzed 220K+ records on BEVs and PHEVs from Washington State.  
 - Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
