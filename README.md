@@ -20,7 +20,7 @@ My journey began in chemical engineering, where I developed a strong foundation 
 
 ## 📁 Featured Projects
 
-### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/yourusername/mental-health-in-tech)
+### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/Farhanaislam1/Mental-Health-in-Tech-Industry)
 📅 *Jan 2025 – Apr 2025*  
 - Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
 - Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
