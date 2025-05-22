@@ -31,11 +31,12 @@ My journey began in chemical engineering, where I developed a strong foundation 
 - Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
 - Built clean visualizations with Seaborn and Matplotlib.
 
-### 🔹 [Fish Image Regression & Classification (M2M Tech)](https://github.com/yourusername/fish-weight-estimation)
-📅 *Jan 2025 – Present*  
-- Developed deep learning models to predict fish weight and detect defects using TensorFlow, OpenCV, and Scikit-learn.  
-- Achieved R² = 0.95 for regression and 82% accuracy in classification.  
-- Automated preprocessing workflows to save 25% of manual labor.
+### 🔹 [HR Data Analysis](https://github.com/Farhanaislam1/HR-Data-Analysis-)
+📅 *Jan 2024 – Present*  
+- Identified high turnover rates among specific departments and education levels
+- Revealed monthly income disparities and how they correlate with marital status and gender
+- Highlighted differences in satisfaction levels across job roles and environments 
+
 
 ### 🔹 [Car Price Prediction](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
 📅 *Sep 2023 – Apr 2024*  
@@ -67,7 +68,7 @@ Explore individual project folders for Jupyter notebooks, visualizations, and RE
 ## 🔄 Future Plans
 - NLP projects analyzing social media or customer feedback  
 - Power BI dashboards for business KPIs  
-- Deploying ML models with Streamlit or Flask
+- Fish Image Regression & Classification
 
 
 <!---
