@@ -37,7 +37,7 @@ My journey began in chemical engineering, where I developed a strong foundation 
 - Achieved R² = 0.95 for regression and 82% accuracy in classification.  
 - Automated preprocessing workflows to save 25% of manual labor.
 
-### 🔹 [House & Car Price Prediction](https://github.com/yourusername/price-prediction-project)
+### 🔹 [Car Price Prediction](https://github.com/yourusername/price-prediction-project)
 📅 *Sep 2023 – Apr 2024*  
 - Built regression models to predict prices with 90–99% accuracy.  
 - Enhanced data quality through extensive cleaning in SQL and Python.  
