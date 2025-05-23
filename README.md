@@ -31,13 +31,13 @@ My journey began in chemical engineering, where I developed a strong foundation 
 - Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
 - Built clean visualizations with Seaborn and Matplotlib.
 
-### 🔹 [HR Data Analysis](https://github.com/Farhanaislam1/HR-Data-Analysis-)
+### 🔹 [HR Data Analysis using Tableau](https://github.com/Farhanaislam1/HR-Data-Analysis-)
 ![image](https://github.com/user-attachments/assets/a2216622-2fe5-4797-bc73-0def41c15803)
 - Identified high turnover rates among specific departments and education levels
 - Revealed monthly income disparities and how they correlate with marital status and gender
 - Highlighted differences in satisfaction levels across job roles and environments 
 
-### 🔹 [Car Price Prediction](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
+### 🔹 [Car Price Prediction using machine learning](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
 ![image](https://github.com/user-attachments/assets/a8639398-666b-4895-a336-0b8729a331ba)
 - Built regression models to predict prices with 90–99% accuracy.  
 - Enhanced data quality through extensive cleaning in SQL and Python.  
