@@ -20,27 +20,25 @@ My journey began in chemical engineering, where I developed a strong foundation 
 
 ## 📁 Featured Projects
 
-### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/Farhanaislam1/Mental-Health-in-Tech-Industry)
-📅 *Jan 2025 – Apr 2025*  
+### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/Farhanaislam1/Mental-Health-in-Tech-Industry) 
 ![image](https://github.com/user-attachments/assets/5c54fa09-71d1-4173-b0a0-2d5607cad963)
 - Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
 - Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
 
 ### 🔹 [Electric Vahicle Population data – EDA & Visualization](https://github.com/Farhanaislam1/Electric-Vehicle-Population-in-USA)
-📅 *Feb 2025 – Apr 2025*  
+![image](https://github.com/user-attachments/assets/a98e9991-802c-466f-a6e1-6f025603d9b9)
 - Analyzed 220K+ records on BEVs and PHEVs from Washington State.  
 - Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
 - Built clean visualizations with Seaborn and Matplotlib.
 
 ### 🔹 [HR Data Analysis](https://github.com/Farhanaislam1/HR-Data-Analysis-)
-📅 *Jan 2024 – Present*  
+![image](https://github.com/user-attachments/assets/a2216622-2fe5-4797-bc73-0def41c15803)
 - Identified high turnover rates among specific departments and education levels
 - Revealed monthly income disparities and how they correlate with marital status and gender
 - Highlighted differences in satisfaction levels across job roles and environments 
 
-
 ### 🔹 [Car Price Prediction](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
-📅 *Sep 2023 – Apr 2024*  
+![image](https://github.com/user-attachments/assets/a8639398-666b-4895-a336-0b8729a331ba)
 - Built regression models to predict prices with 90–99% accuracy.  
 - Enhanced data quality through extensive cleaning in SQL and Python.  
 - Delivered insights via Tableau dashboards and Excel models.
