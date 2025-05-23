@@ -39,9 +39,12 @@ My journey began in chemical engineering, where I developed a strong foundation 
 
 ### 🔹 [Car Price Prediction using machine learning](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
 ![image](https://github.com/user-attachments/assets/a8639398-666b-4895-a336-0b8729a331ba)
-- Built regression models to predict prices with 90–99% accuracy.  
-- Enhanced data quality through extensive cleaning in SQL and Python.  
-- Delivered insights via Tableau dashboards and Excel models.
+- Developed machine learning regression model to predict car prices using features such as manufacturer, year, horsepower, mileage, transmission, and fuel type
+- Performed extensive exploratory data analysis (EDA) to identify trends, handle missing values, and detect outliers
+- Compared multiple regression models including Linear Regression, Support Vector Regression, Decision Tree, Gradient Boosting, and PLS
+- Achieved best performance with Decision Tree Regressor, minimizing mean absolute error (MAE) and mean squared error (MSE)
+- Demonstrated ability to support data-driven pricing strategies for the automotive industry, enhancing profitability and sales optimization
+- Utilized Python, data visualization libraries, and machine learning frameworks throughout the project
 
 ---
 
