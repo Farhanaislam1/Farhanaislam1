@@ -1,3 +1,109 @@
+# 📊 Farhana Islam | Data Analyst Portfolio
+
+Welcome to my data analyst portfolio! I'm a detail-oriented data professional with a background in Chemical Engineering and extensive experience in data wrangling, visualization, and machine learning. This portfolio showcases my projects, tools, and skills developed through real-world work, academic training, and hands-on learning.
+
+---
+
+## 💼 About Me
+
+I'm a data analyst passionate about solving complex problems using data. I bring a unique blend of technical and analytical skills backed by experience in:
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Dash)
+- SQL, MySQL, SQLite
+- Azure, IBM Cloud, Jupyter, IBM Cognos, Tableau
+- Machine learning, predictive modeling, and dashboarding
+
+📍 Based in Calgary, AB | 🎓 MSc in Chemical Engineering | 📜 IBM Data Analyst Professional Certificate (Jun 2025)
+
+---
+
+## 🧠 Skills
+
+- **Languages & Libraries**: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Dash
+- **Tools**: Tableau, Jupyter, VSCode, IBM Watson Studio, Azure Sandbox
+- **Techniques**: EDA, Data Cleaning, Regression, Classification, Deep Learning, Dashboarding
+- **Soft Skills**: Storytelling, Critical Thinking, Team Collaboration
+
+---
+
+## 📁 Projects
+
+### 📌 [Mental Health in the Tech Industry (2014 Survey)](./mental-health-tech-usa/)
+**Duration:** Jan 2025 – Apr 2025  
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
+**Description:**  
+- Cleaned and preprocessed 2014 survey data on mental health in the tech industry.
+- Performed exploratory analysis to identify key trends and treatment-seeking patterns.
+- Found a 50% treatment-seeking rate and a strong link between family history and treatment behavior.
+
+---
+
+### 📌 [Electric Vehicle Population in Washington State](./electric-vehicle-analysis/)
+**Duration:** Feb 2025 – Apr 2025  
+**Tools:** Python, Pandas, Seaborn, Matplotlib  
+**Description:**  
+- Analyzed over 223,000 EV records from 1999 to 2025.
+- Explored trends by vehicle type, manufacturer, and electric range.
+- Visualized EV adoption trends and presented actionable insights.
+
+---
+
+### 📌 [Fish Weight & Defect Prediction (Deep Learning)](./fish-weight-defect-prediction/)
+**Duration:** Jan 2025 – Present  
+**Tools:** Python, TensorFlow, OpenCV, Scikit-learn  
+**Description:**  
+- Analyzed 2,000+ fish images for defect classification (82% accuracy).
+- Developed regression models to predict fish weight and length (R² = 0.95).
+- Automated preprocessing pipelines and visualized results using Seaborn.
+
+---
+
+### 📌 [Housing & Car Price Prediction Models](./regression-price-prediction/)
+**Duration:** Sep 2023 – Apr 2024  
+**Tools:** Python, Scikit-learn, Tableau  
+**Description:**  
+- Built regression models with 90–99% accuracy using Scikit-learn.
+- Visualized outputs in Tableau dashboards for stakeholder presentations.
+- Demonstrated use of EDA, feature engineering, and model evaluation.
+
+---
+
+## 🧪 Academic & Certification Highlights
+
+- 🎓 **MSc Chemical Engineering**, University of Toronto
+- 📜 **IBM Data Analyst Professional Certificate**, Jun 2025
+- 📜 **Microsoft Azure AI-900 Certificate**, NPower Canada, Calgary
+- 📘 **Post-Diploma: Data Management & Analytics**, Bow Valley College, Calgary
+
+---
+
+## 🏢 Professional Experience
+
+**Data Analyst, M2M Tech (2025–Present)**  
+- Deep learning on fish image data (classification & regression)
+- Automated modeling pipelines, collaborated with ML engineers
+
+**Data Analyst, Bow Valley College (2023–2024)**  
+- Predictive modeling, interactive dashboards (Tableau, Excel)
+
+**Technical Officer, NRC Canada (2019–2021)**  
+- Scientific data cleaning, analysis, and visualization
+
+**Graduate Researcher, UofT (2017–2019)**  
+- Advanced statistical analysis of fuel emissions data
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 farhana.email@example.com  
+- 📍 Calgary, AB  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+
+---
+
+> “Turning data into decisions through analysis, storytelling, and collaboration.”
+
+
 # 📊 Farhana Islam – Data Analyst Portfolio
 
 Hi there 👋 I am Farhana, I am highly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, statistical modeling, and machine learning.  With hands-on experience in SQL, Python, Tableau, and machine learning, I specialize in uncovering trends, automating workflows, and delivering clear, data-backed stories that resonate across technical and non-technical teams.
