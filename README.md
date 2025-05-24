@@ -163,8 +163,8 @@ Storytelling, Critical Thinking, Team Collaboration
 
 ## 📬 Contact
 
-📫 **Email**: [farhana.03@hotmail.com]  
-💼 **LinkedIn**: [[(https://www.linkedin.com/in/farhana-islam-261938262/)](#)  
+📫 **Email**: (farhana.03@hotmail.com)
+💼 **LinkedIn**: (https://www.linkedin.com/in/farhana-islam-261938262/)(#)  
 🌐 **Portfolio Website**: (https://github.com/Farhanaislam1)(#)
 📧   
 🔗 [LinkedIn](https://www.linkedin.com/in/farhana-islam-261938262/) 
