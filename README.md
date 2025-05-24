@@ -1,6 +1,6 @@
 # 📊 Farhana Islam | Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! I am ighly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, visualization, statistical modeling, and machine learning. This portfolio showcases my projects, certificates, and technical skills that demonstrate my ability to turn raw data into actionable insights using Python, SQL, Power BI, Tableau, and cloud-based AI tools.
+Welcome to my data analyst portfolio! I am highly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, visualization, statistical modeling, and machine learning. This portfolio showcases my projects, certificates, and technical skills that demonstrate my ability to turn raw data into actionable insights using Python, SQL, Power BI, Tableau, and cloud-based AI tools.
 
 ---
 
