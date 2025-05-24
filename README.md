@@ -67,14 +67,15 @@ I'm a data analyst passionate about solving complex problems using data. I bring
 
 ---
 
-## 🧪 Academic & Certification Highlights
+## 🎓 Education
 
-- 🎓 **MSc Chemical Engineering**, University of Toronto
-- 📜 **IBM Data Analyst Professional Certificate**, Jun 2025
-- 📜 **Microsoft Azure AI-900 Certificate**, NPower Canada, Calgary
-- 📘 **Post-Diploma: Data Management & Analytics**, Bow Valley College, Calgary
+**Post-Diploma Certificate in Data Management & Analytics**  
+*Bow Valley College, Calgary, AB*  
+📅 May 2024  
 
----
+**Master of Science in Chemical Engineering & Applied Chemistry**  
+*University of Toronto, Toronto, ON*  
+📅 August 2019  
 ## 🧾 Certificates
 
 ### 👩‍💻 **Core Data Analysis & Visualization (IBM)**
