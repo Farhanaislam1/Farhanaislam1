@@ -27,6 +27,42 @@ Welcome to my data analyst portfolio! I am highly motivated and results-driven a
 ### 🧠 Soft Skills  
 - Data Storytelling, Critical Thinking, Team Collaboration, Problem-solving, Creative, Detail-oriented  
 ---
+
+## 📁 Featured Projects
+
+### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/Farhanaislam1/Mental-Health-in-Tech-Industry) 
+- **Tools**: Python, Pandas, Seaborn, Matplotlib
+![image](https://github.com/user-attachments/assets/5c54fa09-71d1-4173-b0a0-2d5607cad963)
+- Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
+- Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
+
+### 🔹 [Electric Vahicle Population data – EDA & Visualization](https://github.com/Farhanaislam1/Electric-Vehicle-Population-in-USA)
+- **Tools**: Python, Pandas, Seaborn, Matplotlib
+![image](https://github.com/user-attachments/assets/a98e9991-802c-466f-a6e1-6f025603d9b9)
+- Analyzed 220K+ records on BEVs and PHEVs from Washington State.  
+- Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
+- Built clean visualizations with Seaborn and Matplotlib.
+
+### 🔹 [HR Data Analysis using Tableau](https://github.com/Farhanaislam1/HR-Data-Analysis-)
+- **Tools**: Excel, Tableau
+
+![image](https://github.com/user-attachments/assets/a2216622-2fe5-4797-bc73-0def41c15803)
+- Identified high turnover rates among specific departments and education levels
+- Revealed monthly income disparities and how they correlate with marital status and gender
+- Highlighted differences in satisfaction levels across job roles and environments 
+
+### 🔹 [Car Price Prediction using machine learning](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
+- **Tools**: Python, Pandas, Seaborn, Matplotlib
+
+![image](https://github.com/user-attachments/assets/a8639398-666b-4895-a336-0b8729a331ba)
+- Developed machine learning regression model to predict car prices using features such as manufacturer, year, horsepower, mileage, transmission, and fuel type
+- Performed extensive exploratory data analysis (EDA) to identify trends, handle missing values, and detect outliers
+- Compared multiple regression models including Linear Regression, Support Vector Regression, Decision Tree, Gradient Boosting, and PLS
+- Achieved best performance with Decision Tree Regressor, minimizing mean absolute error (MAE) and mean squared error (MSE)
+- Demonstrated ability to support data-driven pricing strategies for the automotive industry, enhancing profitability and sales optimization
+- Utilized Python, data visualization libraries, and machine learning frameworks throughout the project
+
+---
 ## 🎓 Education
 
 **Post-Diploma Certificate in Data Management & Analytics**  
@@ -76,43 +112,6 @@ Welcome to my data analyst portfolio! I am highly motivated and results-driven a
 - Advanced statistical analysis of fuel emissions data
 
 ---
-
-## 📁 Featured Projects
-
-### 🔹 [Mental Health in Tech Industry – EDA & Visualization](https://github.com/Farhanaislam1/Mental-Health-in-Tech-Industry) 
-- **Tools**: Python, Pandas, Seaborn, Matplotlib
-![image](https://github.com/user-attachments/assets/5c54fa09-71d1-4173-b0a0-2d5607cad963)
-- Cleaned and analyzed a 2014 survey dataset to explore mental health trends in the tech industry.  
-- Visualized key findings using Seaborn and Matplotlib (e.g., treatment-seeking rates, family history correlations).
-
-### 🔹 [Electric Vahicle Population data – EDA & Visualization](https://github.com/Farhanaislam1/Electric-Vehicle-Population-in-USA)
-- **Tools**: Python, Pandas, Seaborn, Matplotlib
-![image](https://github.com/user-attachments/assets/a98e9991-802c-466f-a6e1-6f025603d9b9)
-- Analyzed 220K+ records on BEVs and PHEVs from Washington State.  
-- Created detailed trend analyses on EV adoption, manufacturer market share, and vehicle range.  
-- Built clean visualizations with Seaborn and Matplotlib.
-
-### 🔹 [HR Data Analysis using Tableau](https://github.com/Farhanaislam1/HR-Data-Analysis-)
-- **Tools**: Excel, Tableau
-
-![image](https://github.com/user-attachments/assets/a2216622-2fe5-4797-bc73-0def41c15803)
-- Identified high turnover rates among specific departments and education levels
-- Revealed monthly income disparities and how they correlate with marital status and gender
-- Highlighted differences in satisfaction levels across job roles and environments 
-
-### 🔹 [Car Price Prediction using machine learning](https://github.com/Farhanaislam1/Car-Price-Prediction-using-Machine-Learning-)
-- **Tools**: Python, Pandas, Seaborn, Matplotlib
-
-![image](https://github.com/user-attachments/assets/a8639398-666b-4895-a336-0b8729a331ba)
-- Developed machine learning regression model to predict car prices using features such as manufacturer, year, horsepower, mileage, transmission, and fuel type
-- Performed extensive exploratory data analysis (EDA) to identify trends, handle missing values, and detect outliers
-- Compared multiple regression models including Linear Regression, Support Vector Regression, Decision Tree, Gradient Boosting, and PLS
-- Achieved best performance with Decision Tree Regressor, minimizing mean absolute error (MAE) and mean squared error (MSE)
-- Demonstrated ability to support data-driven pricing strategies for the automotive industry, enhancing profitability and sales optimization
-- Utilized Python, data visualization libraries, and machine learning frameworks throughout the project
-
----
-
 ## 📬 Contact
 
 📧 [Email](farhana.03@hotmail.com)
