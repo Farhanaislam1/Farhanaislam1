@@ -75,7 +75,29 @@ I'm a data analyst passionate about solving complex problems using data. I bring
 - 📘 **Post-Diploma: Data Management & Analytics**, Bow Valley College, Calgary
 
 ---
+## 🧾 Certificates
 
+### 👩‍💻 **Core Data Analysis & Visualization (IBM)**
+- IBM Data Analyst Professional Certificate (June 2025)  
+- Data Analysis with Python (June 2025)  
+- Data Visualization with Python (June 2025)  
+- Excel Essentials for Data Analytics (April 2025)  
+- Data Visualization and Dashboards with Excel & Cognos (April 2025)  
+- SQL for Data Science with Python (May 2025)
+
+### ☁️ **Cloud & AI (Microsoft Azure)**
+- AI-900: Microsoft Azure AI Fundamentals (May 2025)  
+- Computer Vision on Azure (May 2025)  
+- NLP in Azure (April 2025)  
+- Artificial Intelligence Fundamentals with Capstone (Mar 2025)  
+- Azure Machine Learning (May 2025)  
+
+### 🐍 **Python & Applied Projects**
+- Python for Data Science, AI & Development  
+- Python Project for Data Science  
+- IBM Capstone Project (June 2025)
+
+---
 ## 🏢 Professional Experience
 
 **Data Analyst, M2M Tech (2025–Present)**  
