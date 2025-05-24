@@ -1,27 +1,75 @@
 # 📊 Farhana Islam | Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! I'm a detail-oriented data professional with a background in Chemical Engineering and extensive experience in data wrangling, visualization, and machine learning. This portfolio showcases my projects, tools, and skills developed through real-world work, academic training, and hands-on learning.
+Welcome to my data analyst portfolio! I am ighly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, visualization, statistical modeling, and machine learning. This portfolio showcases my projects, certificates, and technical skills that demonstrate my ability to turn raw data into actionable insights using Python, SQL, Power BI, Tableau, and cloud-based AI tools.
 
 ---
 
-## 💼 About Me
+## 🛠️ Tech Stack & Tools
 
-I'm a data analyst passionate about solving complex problems using data. I bring a unique blend of technical and analytical skills backed by experience in:
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Dash)
-- SQL, MySQL, SQLite
-- Azure, IBM Cloud, Jupyter, IBM Cognos, Tableau
-- Machine learning, predictive modeling, and dashboarding
+**Languages & Libraries**  
+Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, Scikit-learn, OpenCV, TensorFlow)  
+SQL (MySQL, SQLite)  
+Excel (Advanced, VBA)  
 
-📍 Based in Calgary, AB | 🎓 MSc in Chemical Engineering | 📜 IBM Data Analyst Professional Certificate (Jun 2025)
+**Cloud & Platforms**  
+Microsoft Azure (AI-900, Computer Vision, NLP, ML)  
+IBM Cloud (Watson Studio, Cognos Analytics)  
+Jupyter Notebook, Google Colab, Visual Studio Code  
+
+**Project Management**  
+Agile, Scrum, Kanban, Trello, OpenProject  
+**Techniques**
+EDA, Data Cleaning, Regression, Classification, Deep Learning, Dashboarding
+**Soft Skills**
+Storytelling, Critical Thinking, Team Collaboration
+---
+## 🎓 Education
+
+**Post-Diploma Certificate in Data Management & Analytics**  
+*Bow Valley College, Calgary, AB*  
+📅 May 2024  
+
+**Master of Science in Chemical Engineering & Applied Chemistry**  
+*University of Toronto, Toronto, ON*  
+📅 August 2019  
+
+## 🧾 Certificates
+
+### 👩‍💻 **Core Data Analysis & Visualization (IBM)**
+- IBM Data Analyst Professional Certificate (June 2025)  
+- Data Analysis with Python (June 2025)  
+- Data Visualization with Python (June 2025)  
+- Excel Essentials for Data Analytics (April 2025)  
+- Data Visualization and Dashboards with Excel & Cognos (April 2025)  
+- SQL for Data Science with Python (May 2025)
+
+### ☁️ **Cloud & AI (Microsoft Azure)**
+- AI-900: Microsoft Azure AI Fundamentals (May 2025)  
+- Computer Vision on Azure (May 2025)  
+- NLP in Azure (April 2025)  
+- Artificial Intelligence Fundamentals with Capstone (Mar 2025)  
+- Azure Machine Learning (May 2025)  
+
+### 🐍 **Python & Applied Projects**
+- Python for Data Science, AI & Development  
+- Python Project for Data Science  
+- IBM Capstone Project (June 2025)
 
 ---
+## 🏢 Professional Experience
 
-## 🧠 Skills
+**Data Analyst, M2M Tech (2025–Present)**  
+- Deep learning on fish image data (classification & regression)
+- Automated modeling pipelines, collaborated with ML engineers
 
-- **Languages & Libraries**: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Dash
-- **Tools**: Tableau, Jupyter, VSCode, IBM Watson Studio, Azure Sandbox
-- **Techniques**: EDA, Data Cleaning, Regression, Classification, Deep Learning, Dashboarding
-- **Soft Skills**: Storytelling, Critical Thinking, Team Collaboration
+**Data Analyst, Bow Valley College (2023–2024)**  
+- Predictive modeling, interactive dashboards (Tableau, Excel)
+
+**Technical Officer, NRC Canada (2019–2021)**  
+- Scientific data cleaning, analysis, and visualization
+
+**Graduate Researcher, UofT (2017–2019)**  
+- Advanced statistical analysis of fuel emissions data
 
 ---
 
@@ -67,54 +115,7 @@ I'm a data analyst passionate about solving complex problems using data. I bring
 
 ---
 
-## 🎓 Education
 
-**Post-Diploma Certificate in Data Management & Analytics**  
-*Bow Valley College, Calgary, AB*  
-📅 May 2024  
-
-**Master of Science in Chemical Engineering & Applied Chemistry**  
-*University of Toronto, Toronto, ON*  
-📅 August 2019  
-## 🧾 Certificates
-
-### 👩‍💻 **Core Data Analysis & Visualization (IBM)**
-- IBM Data Analyst Professional Certificate (June 2025)  
-- Data Analysis with Python (June 2025)  
-- Data Visualization with Python (June 2025)  
-- Excel Essentials for Data Analytics (April 2025)  
-- Data Visualization and Dashboards with Excel & Cognos (April 2025)  
-- SQL for Data Science with Python (May 2025)
-
-### ☁️ **Cloud & AI (Microsoft Azure)**
-- AI-900: Microsoft Azure AI Fundamentals (May 2025)  
-- Computer Vision on Azure (May 2025)  
-- NLP in Azure (April 2025)  
-- Artificial Intelligence Fundamentals with Capstone (Mar 2025)  
-- Azure Machine Learning (May 2025)  
-
-### 🐍 **Python & Applied Projects**
-- Python for Data Science, AI & Development  
-- Python Project for Data Science  
-- IBM Capstone Project (June 2025)
-
----
-## 🏢 Professional Experience
-
-**Data Analyst, M2M Tech (2025–Present)**  
-- Deep learning on fish image data (classification & regression)
-- Automated modeling pipelines, collaborated with ML engineers
-
-**Data Analyst, Bow Valley College (2023–2024)**  
-- Predictive modeling, interactive dashboards (Tableau, Excel)
-
-**Technical Officer, NRC Canada (2019–2021)**  
-- Scientific data cleaning, analysis, and visualization
-
-**Graduate Researcher, UofT (2017–2019)**  
-- Advanced statistical analysis of fuel emissions data
-
----
 
 ## 🤝 Let's Connect
 
@@ -127,25 +128,7 @@ I'm a data analyst passionate about solving complex problems using data. I bring
 > “Turning data into decisions through analysis, storytelling, and collaboration.”
 
 
-# 📊 Farhana Islam – Data Analyst Portfolio
 
-Hi there 👋 I am Farhana, I am highly motivated and results-driven analytics professional with 3+ years of experience in quantitative data analysis, statistical modeling, and machine learning.  With hands-on experience in SQL, Python, Tableau, and machine learning, I specialize in uncovering trends, automating workflows, and delivering clear, data-backed stories that resonate across technical and non-technical teams.
-
-At M2M Tech, I led the development of image-based regression models for fish weight prediction using deep learning libraries-boosting model accuracy and improving data delivery timelines. During my time at Bow Valley College, I built robust regression models to predict house and car prices, refined data pipelines, and visualized insights that influenced key academic and administrative decisions.
-
-My journey began in chemical engineering, where I developed a strong foundation in scientific analysis and statistical rigor. Now, I am expanding my toolkit with AI/ML and cloud platforms like Microsoft Azure to stay ahead in the evolving data landscape. I bring curiosity, critical thinking, and a collaborative mindset to every challenge-whether it is optimizing dashboards, modeling real-world scenarios, or improving data reliability.
-
-
----
-
-## 🔧 Tech Stack
-**Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow), SQL  
-**Tools:** Tableau, Excel, IBM Watson Studio, Jupyter Notebook, Visual Studio Code, GitHub  
-**Cloud Platforms:** Microsoft Azure (AI-900 Certified), IBM Cloud  
-**Databases:** MySQL, SQLite  
-**Project Management:** Agile, Scrum, Trello, Kanban
-
----
 
 ## 📁 Featured Projects
 
@@ -177,29 +160,18 @@ My journey began in chemical engineering, where I developed a strong foundation 
 
 ---
 
-## 📜 Certifications
-- 🎓 **IBM Data Analyst Professional Certificate** *(Expected Jun 2025)*  
-- ☁️ **Microsoft Azure AI Fundamentals (AI-900)**  
-- 📈 **Post-Diploma Certificate in Data Management & Analytics – Bow Valley College**
 
----
+## 📬 Contact
 
-## 📫 Let's Connect
-📧 farhana.03@hotmail.com  
+📫 **Email**: [farhana.03@hotmail.com]  
+💼 **LinkedIn**: [[(https://www.linkedin.com/in/farhana-islam-261938262/)](#)  
+🌐 **Portfolio Website**: (https://github.com/Farhanaislam1)(#)
+📧   
 🔗 [LinkedIn](https://www.linkedin.com/in/farhana-islam-261938262/) 
 🐱 [GitHub](https://github.com/Farhanaislam1)
 
 ---
 
-## 📌 How to Use This Portfolio
-Explore individual project folders for Jupyter notebooks, visualizations, and README files with problem statements, methods, and results.
-
----
-
-## 🔄 Future Plans
-- NLP projects analyzing social media or customer feedback  
-- Power BI dashboards for business KPIs  
-- Fish Image Regression & Classification
 
 
 <!---
