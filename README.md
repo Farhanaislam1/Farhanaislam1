@@ -1,6 +1,10 @@
-# 📊 Farhana Islam - Portfolio
+# 📊 Farhana Islam - Data Portfolio
+👋 Welcome!
+# 👩‍💻 About Me
 
-## Welcome to my portfolio! I am highly motivated and results-driven analytics professional with 5+ years of experience in quantitative data analysis, visualization, statistical modeling, and machine learning. This portfolio showcases my projects, certificates, and technical skills that demonstrate my ability to turn raw data into actionable insights using Python, SQL, Power BI, Tableau, and cloud-based AI tools.
+I am a highly motivated and results-driven analytics professional with over 5 years of experience in quantitative data analysis, data visualization, statistical modeling, and machine learning.
+
+This portfolio showcases my projects, certifications, and technical skills, highlighting my ability to turn raw data into actionable insights using tools such as Python, SQL, Power BI, Tableau, and cloud-based AI platforms.
 
 ---
 
@@ -98,17 +102,17 @@
 ## 🏢 Professional Experience
 
 **Data Analyst, M2M Tech (2025–Present)**  
-- Deep learning on fish image data (classification & regression)
-- Automated modeling pipelines, collaborated with ML engineers
+- Developed deep learning models on fish image data (classification & regression)
+- Automated modeling pipelines and collaborated with stakeholders & ML engineers
 
 **Data Analyst, Bow Valley College (2023–2024)**  
-- Predictive modeling, interactive dashboards (Tableau, Excel)
+- Created predictive models and interactive dashboards (Python, SQL, Tableau, Excel) 
 
 **Technical Officer, NRC Canada (2019–2021)**  
-- Scientific data cleaning, analysis, and visualization
-
+- Conducted scientific data analysis and created technical visualizations
+  
 **Graduate Researcher, UofT (2017–2019)**  
-- Advanced statistical analysis of fuel emissions data
+- Analyzed large-scale fuel emissions datasets using statistical tools
 
 ---
 ## 📬 Contact
