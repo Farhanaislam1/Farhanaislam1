@@ -101,17 +101,17 @@ This portfolio showcases my projects, certifications, and technical skills, high
 ---
 ## 🏢 Professional Experience
 
-**Data Analyst, M2M Tech (2025–Present)**  
+### **Data Analyst, M2M Tech (2025–Present)**  
 - Developed deep learning models on fish image data (classification & regression)
 - Automated modeling pipelines and collaborated with stakeholders & ML engineers
 
-**Data Analyst, Bow Valley College (2023–2024)**  
+### **Data Analyst, Bow Valley College (2023–2024)**  
 - Created predictive models and interactive dashboards (Python, SQL, Tableau, Excel) 
 
-**Technical Officer, NRC Canada (2019–2021)**  
+### **Technical Officer, NRC Canada (2019–2021)**  
 - Conducted scientific data analysis and created technical visualizations
   
-**Graduate Researcher, UofT (2017–2019)**  
+### **Graduate Researcher, UofT (2017–2019)**  
 - Analyzed large-scale fuel emissions datasets using statistical tools
 
 ---
