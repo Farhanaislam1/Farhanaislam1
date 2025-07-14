@@ -111,7 +111,7 @@ This portfolio showcases my projects, certifications, and technical skills, high
 ### **Technical Officer, NRC Canada (2019–2021)**  
 - Conducted scientific data analysis and created technical visualizations
   
-### **Graduate Researcher, UofT (2017–2019)**  
+### **Graduate Researcher, University of Toronto (UofT) (2017–2019)**  
 - Analyzed large-scale fuel emissions datasets using statistical tools
 
 ---
