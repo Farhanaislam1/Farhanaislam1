@@ -4,7 +4,7 @@
 
 I am a highly motivated and results-driven analytics professional with over 5 years of experience in quantitative data analysis, data visualization, statistical modeling, and machine learning.
 
-This portfolio showcases my projects, certifications, and technical skills, highlighting my ability to turn raw data into actionable insights using tools such as Python, SQL, Power BI, Tableau, and cloud-based AI platforms.
+This portfolio showcases my projects, certifications, and technical skills, highlighting my ability to turn raw data into actionable insights using tools such as Python, Excel, SQL, Power BI, Tableau, and cloud-based AI platforms.
 
 ---
 
@@ -79,7 +79,7 @@ This portfolio showcases my projects, certifications, and technical skills, high
 ## 🧾 Certificates
 
 ### 👩‍💻 **Core Data Analysis & Visualization (IBM)**
-- IBM Data Analyst Professional Certificate (June 2025)  
+- IBM Data Analyst Professional Certificate (July 2025)  
 - Data Analysis with Python (June 2025)  
 - Data Visualization with Python (June 2025)  
 - Excel Essentials for Data Analytics (April 2025)  
@@ -101,7 +101,7 @@ This portfolio showcases my projects, certifications, and technical skills, high
 ---
 ## 🏢 Professional Experience
 
-### **Data Analyst, M2M Tech (2025–Present)**  
+### **Data Scientist, M2M Tech (2025–Present)**  
 - Developed deep learning models on fish image data (classification & regression)
 - Automated modeling pipelines and collaborated with stakeholders & ML engineers
 
