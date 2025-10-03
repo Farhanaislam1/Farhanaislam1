@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me
 
-I am a highly motivated and results-driven analytics professional with over 5 years of experience in quantitative data analysis, data visualization, statistical modeling, and machine learning.
+I am a highly motivated and results-driven analytics professional with over 3 years of experience in quantitative data analysis, data visualization, statistical modeling, and machine learning.
 
 This portfolio showcases my projects, certifications, and technical skills, highlighting my ability to turn raw data into actionable insights using tools such as Python, Excel, SQL, Power BI, Tableau, and cloud-based AI platforms.
 
